@@ -18,3 +18,5 @@
 
 ### 나의 대회 도전기
   ### 01. 나의 첫모델 만들기 [Link](https://github.com/LDJWJ/parking_demand_competion/blob/main/01_%EB%8C%80%ED%9A%8C_%EC%B2%AB%EB%AA%A8%EB%8D%B8%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+  
+  ### 02. 데이터 처리-오류2,3번 [Link](https://github.com/LDJWJ/parking_demand_competion/blob/main/02_second_data.md)
