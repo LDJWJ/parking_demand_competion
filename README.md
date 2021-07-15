@@ -17,6 +17,14 @@
  * 유형별 임대주택 설계 시 단지 내 적정 주차 수요를 예측
 
 ### 나의 대회 도전기
-  ### 01. 나의 첫모델 만들기 [Link](https://github.com/LDJWJ/parking_demand_competion/blob/main/01_%EB%8C%80%ED%9A%8C_%EC%B2%AB%EB%AA%A8%EB%8D%B8%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+  ### 01. 나의 첫모델 만들기 [Link](https://ldjwj.github.io/parking_demand_competion/01_competition_firstmodel.html)
   
-  ### 02. 데이터 처리-오류2,3번 [Link](https://github.com/LDJWJ/parking_demand_competion/blob/main/02_second_data.md)
+  ### 02. 데이터 처리-오류2,3번 [Link](https://ldjwj.github.io/parking_demand_competion/02_second_datapreprocessing.html)
+
+  ### 03. 선형회귀 모델 구축하기 [Link](https://ldjwj.github.io/parking_demand_competion/03_second_linear_model.html)
+  
+  ### 04. 랜덤 포레스트 모델 구축하기 [Link](https://ldjwj.github.io/parking_demand_competion/04_second_rf_model.html)
+  
+  ### 05. 다양한 모델 해보기 [Link](https://ldjwj.github.io/parking_demand_competion/05_second_etc_model.html)
+  
+  
